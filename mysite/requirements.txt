@@ -1,0 +1,1 @@
+pillow == python mysite/manage.py makemigrationspython mysite/manage.py makemigrations10.3.0
